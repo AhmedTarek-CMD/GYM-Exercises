@@ -18,13 +18,4 @@ Live Demo : https://gym-exercises-hazel-theta.vercel.app/
     Material UI (For styling and responsiveness)
     React Router (For navigation)
 
-📂 Project Structure
-
-/src
-  ├── components    # Reusable components (ExerciseCard, Navbar, Footer, ...)
-  ├── pages         # Page components (Home, Exercises)
-  ├── assets        # Images, icons, etc.
-  ├── App.js        # Main application component
-  ├── index.js      # Entry point
-
-
+Made with ❤️ by Ahmed Tarek
